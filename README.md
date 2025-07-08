@@ -31,26 +31,24 @@
 
 ## Tech Stack
 
-```yaml
-Languages:
+**Languages:**
   - Python
   - C++
   - JavaScript
   - HTML/CSS
   - Java
-Frameworks & Libraries:
+**Frameworks & Libraries:**
   - TensorFlow
   - FastAPI
   - Flask
   - React
   - OpenCV
   - Tailwind CSS
-Tools & Platforms:
+**Tools & Platforms:**
   - Arduino
   - Raspberry Pi
   - Google Coral
   - NVIDIA Omniverse
-```
 
 ---
 
