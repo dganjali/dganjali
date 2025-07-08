@@ -1,9 +1,4 @@
 <!-- Profile README for Daniel Ganjali -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dganjali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
 # Hi, I'm Daniel Ganjali
 
 **Age:** 15  
@@ -30,8 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dganjali&show_icons=true&theme=dark&hide_title=true" alt="dganjali's GitHub stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=dganjali&theme=dark&hide_title=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=dganjali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
