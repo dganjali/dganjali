@@ -52,15 +52,6 @@
 
 ---
 
-## Connect With Me
-
-- <a href="https://www.linkedin.com/in/daniel-ganjali-792bab30a/" target="_blank">LinkedIn</a>
-- <a href="mailto:danielganjali09@gmail.com">Email</a>
-- <a href="https://devpost.com/danial-ganjali" target="_blank">Devpost</a>
-- <a href="https://www.youtube.com/@dganjali" target="_blank">YouTube</a>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dganjali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
