@@ -37,6 +37,7 @@
   - JavaScript
   - HTML/CSS
   - Java
+  
 **Frameworks & Libraries:**
   - TensorFlow
   - FastAPI
@@ -44,6 +45,7 @@
   - React
   - OpenCV
   - Tailwind CSS
+
 **Tools & Platforms:**
   - Arduino
   - Raspberry Pi
