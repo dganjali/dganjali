@@ -22,8 +22,6 @@
 ## GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dganjali&show_icons=true&theme=dark&hide_title=true" alt="dganjali's GitHub stats" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=dganjali&theme=dark&hide_title=true" alt="GitHub Streak" />
 </p>
 
