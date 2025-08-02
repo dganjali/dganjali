@@ -1,7 +1,7 @@
 <!-- Profile README for Daniel Ganjali -->
 # Hi, I'm Daniel Ganjali
 
-**Age:** 16
+**Age:** 16  
 **Location:** North York, Toronto, Canada  
 **School:** University of Toronto Schools (UTS)  
 **Roles:** Student, Roboticist, AI Developer, STEM Advocate  
