@@ -1,54 +1,34 @@
 <!-- Profile README for Daniel Ganjali -->
-# Hi, I'm Daniel Ganjali
 
-**Age:** 16  
-**Location:** North York, Toronto, Canada  
-**School:** University of Toronto Schools (UTS)  
-**Roles:** Student, Roboticist, AI Developer, STEM Advocate  
-**Interests:** Robotics, ML/AI, Edge Computing, Social Impact Tech, Accessibility, Innovation
+# Hi, I'm Daniel Ganjali 👋
 
----
+I'm a student and builder from Toronto interested in **software, AI, robotics, and startups**.
 
-## What I Do / Current Work
+I like working on ambitious technical projects, especially ones that combine software with real-world problems.
 
-- Co-captain @ UTS Robotics
-- Founder @ Predictra — RUL-prediction dashboard (SpurHacks 2x award winner)
-- Created a food bank inventory manager with ML
-- Developing TetherAI: a shelter demand prediction system using LSTM + FastAPI
-- Exploring Reinforcement Learning with NVIDIA Omniverse + Google Coral
+## What I'm Working On
 
----
+* Building **[OutreachOS](https://outreachos.app)** — AI-powered, research-first outreach
+* Exploring **machine learning, AI agents, and robotics**
+* Building and competing in **hackathons**
+* Working on research and experimenting with new ideas
+* Helping build and grow robotics at **University of Toronto Schools**
 
-## GitHub Stats & Activity
+## Interests
+
+* Artificial Intelligence & Machine Learning
+* Robotics & Autonomous Systems
+* Startups & Product Development
+* Full-Stack Software Engineering
+* Human–AI Interaction
+* Research
+* Hardware + Software Systems
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dganjali&theme=dark&hide_title=true" alt="GitHub Streak" />
 </p>
-
----
-
-## Tech Stack
-
-**Languages:**
-  - Python
-  - C++
-  - JavaScript
-  - HTML/CSS
-  - Java
-  
-**Frameworks & Libraries:**
-  - TensorFlow
-  - FastAPI
-  - Flask
-  - React
-  - OpenCV
-  - Tailwind CSS
-
-**Tools & Platforms:**
-  - Arduino
-  - Raspberry Pi
-  - Google Coral
-  - NVIDIA Omniverse
 
 ---
 
